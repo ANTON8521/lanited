@@ -1,3 +1,4 @@
+#CODIGO SYNC GITHUB
 from pickle import TRUE
 import time
 import snap7
