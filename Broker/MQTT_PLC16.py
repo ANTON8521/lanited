@@ -1,12 +1,9 @@
-#import random
 from pickle import TRUE
 import time
 import snap7
-#import numpy as np
 import ssl
 import paho.mqtt.client as mqtt 
 from snap7 import util
-#from snap7 import types
 from snap7.types import*
 
 data_read= ['0','0',0,0,0,0,0,0,0,0,0,0,0,0,0]
